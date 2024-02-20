@@ -1,0 +1,17 @@
+name: calculator_di_starter
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: 3.2.6
+  flutter: 3.16.9
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: 1.0.6
+  shared_preferences: 2.2.2
+  provider: 6.1.1
+
+dev_dependencies:
+  flutter_lints: 3.0.1
